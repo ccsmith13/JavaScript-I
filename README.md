@@ -6,11 +6,11 @@
 
 **Follow these steps to set up and work on your project:**
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X] Create a forked copy of this project.
+- [X] Add your team lead as collaborator on Github.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
@@ -50,5 +50,10 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 
 ### Stretch
 
-- Move on to tomorrow's content and start studying callbacks, write a few of your own to get the hang of it.
+- Move on to tomorrow's content and start studying callbacks, write a few of your own to get the hang of it. 
+
+Will do 
+
 - Look at array methods like .map(), .reduce(), .filter(). use them on the data in the arrays assignment to accomplish the same things you did with the ES5 for loop.
+
+Was able to re-write 2 of the loops using the filter method.
